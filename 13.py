@@ -3834,7 +3834,7 @@ for awards in films_awards:
     temp_dict['awards'] = sorted_awards_list
     films_awards_list.append(temp_dict)
 
-print(f'Крок 4. Выдсортований список: {films_awards_list}')
+print(f'List: {films_awards_list}')
 
 
 
